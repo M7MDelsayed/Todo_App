@@ -2,7 +2,8 @@
 
 Flutter application for organizing daily tasks build by using flutter basics widgets & firebase & firestore & provider state management & calendar timeline package & shared preference & light theme & dark theme & localization
 
-## Screens it contains : 
+## Screens it contains :
+=> Splash Screen                                                                                                                                                       
 => Home Screen                                                                                                                                                         
 => Settings Screen                                                                                                                                                     
 => Task Edit Screen                                                                                                                                                     
