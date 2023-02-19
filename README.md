@@ -8,7 +8,7 @@ Flutter application for organizing daily tasks build by using flutter basics wid
 => Settings Screen                                                                                                                                                     
 => Task Edit Screen                                                                                                                                                     
 
-### Getting Started
+### Photos
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/98716306/219906792-a62e31e8-5dfc-46d7-b6c8-f881e9fc71ad.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/98716306/219906793-996f1e8d-0e24-441b-b2fc-f51ac64cde00.png)
